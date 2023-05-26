@@ -2,7 +2,8 @@
 //  TableViewController.swift
 //  ToDoList
 //
-//  Created by Екатерина  on 19.04.23.
+//  Created by Katsiaryna Kulik  on 19.04.23.
+//  Copyright © 2023 Katsiaryna Kulik. All rights reserved.
 //
 
 import UIKit
